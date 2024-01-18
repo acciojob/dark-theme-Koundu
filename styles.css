@@ -1,6 +1,12 @@
 #app{
   height:90vh;
 }
+#app>#swap{
+	margin-left:35%;
+}
+#ptag{
+	text-align:center;
+}
 .night{
   background-color: black;
   color:white;
@@ -14,3 +20,7 @@
   background-color:blue;
   color:white; 
 }
+#ptag{
+	color:deepskyblue;	
+}
+
